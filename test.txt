@@ -1,6 +1,1 @@
-仮想環境から出るコマンド　
-deactivate
 
-Pythonを抜ける
->>>の時はPythonモード
-exit()
