@@ -8,8 +8,20 @@
 #成功するとvenvになる
 #(venv) haru@haru-pc:~/dev/bayby$
 
-#仮想環境を無効化する時
+#仮想環境を出る（無効化する時
 #deactivate
+
+
+#Pythonを抜ける
+#>>>の時はPythonモード
+#exit()
+
+
+#git status        # 今どうなってるか見る
+#git add test.txt  # これを保管したい、と指定
+#git status        # 本当にこれだけか確認
+#git commit -m "説明"
+
 
 print("hello world")
 
