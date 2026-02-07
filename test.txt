@@ -1,1 +1,16 @@
 https://github.com/tocoharu/baby/invitations
+https://github.com/tocoharu/baby/invitations
+
+git add . 変更したデータを全部送るギットハブに送るデータの指定
+
+git commit -m add:コメントの追加
+↑更新したことについてのコメント　add　追加するの意味
+おかしいところなおす fix
+仕様変更　change
+消す時　delete 
+m　以降の単語
+
+git push origin main
+git push が送り出す
+origin 国際図書館指定
+main　本棚

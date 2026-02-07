@@ -1,1 +1,2 @@
 hello world
+標準入力わからない
